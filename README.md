@@ -1,8 +1,7 @@
 # Meetups
 ## Митапы исследовательского центра
-![udv_meetup](https://github.com/user-attachments/assets/cac2aa28-c34e-4f90-91b3-0e6a9b34d817)
 В этом репозитории размещены материалы митапов, проведенных сотрудниками Исследовательского центра UDV Group
-
+![udv_meetup](https://github.com/user-attachments/assets/cac2aa28-c34e-4f90-91b3-0e6a9b34d817)
 
 | № пп. | Тема выступления| Краткое описание |  Ссылка на материалы |
 |:-:|:-:|:-:|:-:|
