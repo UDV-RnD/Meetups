@@ -8,6 +8,8 @@
 | 2 | LLM агенты| Презентация о LLM агентах  | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/LLM%20agents"> LLM агенты </a></p> | 07.03.2025 |
 | 3 | Мультимодальные LLM | Разработка сервиса с применением мультимодальных моделей  | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/Multimodal%20LLM"> Multimodal LLM </a></p> | 21.03.2025 |
 | 4 | Градиентный бустинг | Презентация о теоретических основах и различных реализациях алгоритма градиентный бустинг  | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/Boostings"> Gradient boosting </a></p> | 28.03.2025 |
+| 5 | Применение графов знаний для создания ИИ ассистентов | Презентация о том, как мы применяли графы знаний и LLM агенты для создания прототипа цифрового ассистента по услуге МФЦ | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/neo4j_graphs_for_AI_assistants"> Neo4j graphs for AI assistants </a></p> | 25.04.2025 |
+
 
 
 
