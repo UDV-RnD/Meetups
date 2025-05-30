@@ -9,6 +9,8 @@
 | 3 | Мультимодальные LLM | Разработка сервиса с применением мультимодальных моделей  | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/Multimodal%20LLM"> Multimodal LLM </a></p> | 21.03.2025 |
 | 4 | Градиентный бустинг | Презентация о теоретических основах и различных реализациях алгоритма градиентный бустинг  | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/Boostings"> Gradient boosting </a></p> | 28.03.2025 |
 | 5 | Применение графов знаний для создания ИИ ассистентов | Презентация о том, как мы применяли графы знаний и LLM агенты для создания прототипа цифрового ассистента по услуге МФЦ | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/neo4j_graphs_for_AI_assistants"> Neo4j graphs for AI assistants </a></p> | 25.04.2025 |
+| 6 | Архитектура yolov8. Подзадача oriented bounding boxes | Презентация по одной из последних разработок в семействе YOLO, нейросети YOLOv8, которая обещает революцию в области детектирования объектов. А также опыт её применения в юзеркейсе с распознаванием чеков. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/yolo"> Yolov8 </a></p> | 16.05.2025 |
+| 7 | Интересное с PHD25 | Поездка на PHDays 2025: интересные доклады, знакомства, идеи. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/PHDays"> PHDays </a></p> | 30.05.2025 |
 
 
 
