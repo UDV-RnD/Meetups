@@ -12,6 +12,10 @@
 | 6 | Архитектура yolov8. Подзадача oriented bounding boxes | Презентация по одной из последних разработок в семействе YOLO, нейросети YOLOv8, которая обещает революцию в области детектирования объектов. А также опыт её применения в юзеркейсе с распознаванием чеков. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/yolo"> Yolov8 </a></p> | 16.05.2025 |
 | 7 | Интересное с PHD25 | Поездка на PHDays 2025: интересные доклады, знакомства, идеи. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/PHDays"> PHDays </a></p> | 30.05.2025 |
 | 8 | Студенческий НТС | Доклады студентов со студенческого НТС. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/student_ntc"> Student NTC </a></p> | 16.06.2025 |
+| 9 | Visual-language models | Архитектура visual-language моделей на примере Qwen 2.5-VL. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/Visual-language%20models"> VLM </a></p> | 18.06.2025 |
+| 10 | Model Context Protocol | Рассматриваются подходы к построению архитектур LLM агентов. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/LLM%20agents"> MCP </a></p> | 21.06.2025 |
+
+
 
 
 
