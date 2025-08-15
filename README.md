@@ -14,6 +14,8 @@
 | 8 | Студенческий НТС | Доклады студентов со студенческого НТС. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/student_ntc"> Student NTC </a></p> | 16.06.2025 |
 | 9 | Visual-language models | Архитектура visual-language моделей на примере Qwen 2.5-VL. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/Visual-language%20models"> VLM </a></p> | 18.06.2025 |
 | 10 | Model Context Protocol | Рассматриваются подходы к построению архитектур LLM агентов. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/MCP"> MCP </a></p> | 21.06.2025 |
+| 11 | Интересное с RSAC'25| Обзор некоторых докладов с международной конференции по ИТ-безопасности RSAC'25. | <p><a href="https://github.com/UDV-RnD/Meetups/tree/main/RSAC_2025"> RSAC </a></p> | 15.08.2025 |
+
 
 
 
